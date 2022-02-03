@@ -2,6 +2,8 @@
 owner: git-level101 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+user-agent: git-level101
+
 sites:
   - name: Google
     url: https://www.google.com
