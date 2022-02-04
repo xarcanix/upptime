@@ -41,6 +41,8 @@ status-website:
 notifications:
   - type: slack
     channel: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
+  - type: telegram
+    channel: ${{ secrets.NOTIFICATION_TELEGRAM_CHAT_ID }}
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
