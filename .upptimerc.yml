@@ -2,8 +2,6 @@
 owner: git-level101 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
-user-agent: git-level101
-
 sites:
   - name: Google
     url: https://www.google.com
@@ -37,14 +35,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-
-notifications:
-  - type: Slack
-    channel: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
-  - type: Telegram
-    channel: ${{ secrets.NOTIFICATION_TELEGRAM_CHAT_ID }}
-
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
