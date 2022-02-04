@@ -39,12 +39,12 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 
-
 notifications:
-  - type: slack
+  - type: Slack
     channel: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
-  - type: telegram
+  - type: Telegram
     channel: ${{ secrets.NOTIFICATION_TELEGRAM_CHAT_ID }}
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
