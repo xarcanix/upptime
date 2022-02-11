@@ -13,6 +13,8 @@ sites:
     url: https://www.youtube.com
   - name: GitHub
     url: https://github.com
+  - name: xarcanix site
+    url: https://xarcanix.github.io/site/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
