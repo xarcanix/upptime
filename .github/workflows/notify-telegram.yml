@@ -1,10 +1,18 @@
 name: Telegram Notification
 
 on:
-  push:
-    types: [notify]  
   schedule:
     - cron: "0 */2 * * *"
+  push:
+    branches:
+      - master
+      - gh-pages
+  pull_request:
+    branches:
+      - master
+      - gh-pages
+  repository_dispatch:
+    types: [notify]
   workflow_dispatch:
 jobs:
 
