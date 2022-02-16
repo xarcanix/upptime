@@ -1,9 +1,11 @@
 name: Telegram Notification
+
 on:
-  check_run:
-    types: [push, workflow_dispatch, schedule]
+  push:
+    types: [notify]  
   schedule:
     - cron: "*/15 * * * *"
+  workflow_dispatch:
 jobs:
 
   build:
