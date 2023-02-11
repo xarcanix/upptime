@@ -22,11 +22,11 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 203,
     "timeDay": 97,
@@ -34,7 +34,7 @@
     "timeMonth": 173,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2023-02-11": 11,
+      "2023-02-11": 0,
       "2022-03-01": 32
     }
   },
