@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 83,
+    "timeDay": 97,
     "timeWeek": 193,
-    "timeMonth": 118,
+    "timeMonth": 115,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2023-08-03": 21
@@ -26,18 +26,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 184,
-    "timeWeek": 218,
-    "timeMonth": 220,
+    "timeDay": 161,
+    "timeWeek": 227,
+    "timeMonth": 221,
     "timeYear": 200,
-    "dailyMinutesDown": {
-      "2023-09-29": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -51,9 +49,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
     "time": 292,
-    "timeDay": 408,
-    "timeWeek": 323,
-    "timeMonth": 292,
+    "timeDay": 91,
+    "timeWeek": 325,
+    "timeMonth": 286,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2023-09-13": 22,
@@ -86,9 +84,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
-    "timeDay": 417,
-    "timeWeek": 473,
-    "timeMonth": 395,
+    "timeDay": 437,
+    "timeWeek": 468,
+    "timeMonth": 394,
     "timeYear": 323,
     "dailyMinutesDown": {}
   },
@@ -103,10 +101,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 51,
-    "timeWeek": 224,
-    "timeMonth": 179,
+    "time": 209,
+    "timeDay": 423,
+    "timeWeek": 225,
+    "timeMonth": 186,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2022-12-27": 22
@@ -124,9 +122,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 53,
-    "timeWeek": 111,
-    "timeMonth": 97,
+    "timeDay": 150,
+    "timeWeek": 96,
+    "timeMonth": 98,
     "timeYear": 92,
     "dailyMinutesDown": {}
   },
