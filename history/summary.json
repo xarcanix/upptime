@@ -76,9 +76,9 @@
     "slug": "youtube",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 329,
     "timeDay": 215,
@@ -86,7 +86,7 @@
     "timeMonth": 182,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2024-06-06": 0
+      "2024-06-06": 20
     }
   },
   {
