@@ -82,18 +82,20 @@
     "url": "https://github.com",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 135,
-    "timeWeek": 202,
-    "timeMonth": 127,
-    "timeYear": 134,
-    "dailyMinutesDown": {}
+    "time": 137,
+    "timeDay": 105,
+    "timeWeek": 186,
+    "timeMonth": 126,
+    "timeYear": 133,
+    "dailyMinutesDown": {
+      "2025-01-30": 0
+    }
   },
   {
     "name": "xarcanix site",
