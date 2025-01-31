@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 246,
-    "timeWeek": 113,
-    "timeMonth": 110,
+    "timeDay": 79,
+    "timeWeek": 111,
+    "timeMonth": 109,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2024-05-01": 34
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 187,
-    "timeWeek": 136,
-    "timeMonth": 240,
+    "time": 209,
+    "timeDay": 36,
+    "timeWeek": 109,
+    "timeMonth": 235,
     "timeYear": 219,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 346,
-    "timeWeek": 181,
-    "timeMonth": 287,
-    "timeYear": 304,
+    "time": 360,
+    "timeDay": 397,
+    "timeWeek": 217,
+    "timeMonth": 291,
+    "timeYear": 305,
     "dailyMinutesDown": {
       "2024-04-23": 17
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 275,
-    "timeDay": 197,
-    "timeWeek": 244,
-    "timeMonth": 216,
+    "timeDay": 149,
+    "timeWeek": 237,
+    "timeMonth": 214,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2024-06-06": 65
@@ -84,18 +84,16 @@
     "slug": "git-hub",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 92,
-    "timeWeek": 173,
-    "timeMonth": 124,
+    "timeDay": 59,
+    "timeWeek": 159,
+    "timeMonth": 121,
     "timeYear": 133,
-    "dailyMinutesDown": {
-      "2025-01-30": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "xarcanix site",
@@ -109,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 112,
-    "timeWeek": 149,
-    "timeMonth": 102,
+    "timeDay": 42,
+    "timeWeek": 136,
+    "timeMonth": 100,
     "timeYear": 103,
     "dailyMinutesDown": {}
   },
