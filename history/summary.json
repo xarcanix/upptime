@@ -78,19 +78,19 @@
     "url": "https://github.com",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 43,
-    "timeWeek": 130,
-    "timeMonth": 149,
+    "timeDay": 57,
+    "timeWeek": 123,
+    "timeMonth": 146,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2025-06-03": 0
+      "2025-06-03": 21
     }
   },
   {
